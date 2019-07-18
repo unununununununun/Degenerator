@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Degenerator-0070.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\DOC\Unreal Projects\MyProjectFMOD1\Intermediate\Build\Win64\MyProjectFMOD1Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\DOC\Unreal Projects\MyProjectFMOD1\Plugins\Degenerator\Intermediate\Build\Win64\UE4Editor\Development\Degenerator\Module.Degenerator.cpp.obj"
+"F:\DOC\Unreal Projects\MyProjectFMOD1\Plugins\Degenerator\Intermediate\Build\Win64\UE4Editor\Development\Degenerator\Module.Degenerator.gen.cpp.obj"
+"F:\DOC\Unreal Projects\MyProjectFMOD1\Plugins\Degenerator\Intermediate\Build\Win64\UE4Editor\Development\Degenerator\Default.rc2.res"
+/OUT:"F:\DOC\Unreal Projects\MyProjectFMOD1\Plugins\Degenerator\Intermediate\Build\Win64\UE4Editor\Development\Degenerator\UE4Editor-Degenerator-0070.lib"
+/INCLUDE:IMPLEMENT_MODULE_Degenerator
